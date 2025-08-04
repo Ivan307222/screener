@@ -1,6 +1,6 @@
 {
-  "max_time": 60,
-  "bot_token": "0000000000:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "max_time": 7200,
+  "bot_token": "8452916269:AAG0tZ4hkBouivgPoCrzlk_TqRhsIHboQR4",
   "chat_id": "-1000000000000",
   "push_message_btn": 4,
   "exit_btn_code": 9,
